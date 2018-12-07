@@ -14,12 +14,7 @@ npm install
 npm run dev
 开始开发项目
 
-# 使用方法
-```
 git add README.md
-```
 git commit -m "first commit"
-```
 git remote add origin git@github.com:tammyDing/vue-ssr-tech.git
-```
 git push -u origin master
